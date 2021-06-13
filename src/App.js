@@ -2,12 +2,15 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const getData = () => {
+    fetch('https://')
+  }
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          We are already here now
         </p>
         <a
           className="App-link"
