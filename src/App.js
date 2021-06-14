@@ -9,9 +9,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          We are already here now
-        </p>
+        <p>We are already here now</p>
+        <p>And our new app is ready on AWS CICD</p>
         <a
           className="App-link"
           href="https://reactjs.org"
